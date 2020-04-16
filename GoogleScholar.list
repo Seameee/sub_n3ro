@@ -1,5 +1,5 @@
 # Google Scholar
-#DOMAIN-SUFFIX,scholar.google.cn
-#DOMAIN-SUFFIX,scholar.google.com
-#DOMAIN-SUFFIX,scholar.google.com.hk
+#DOMAIN,scholar.google.cn
+#DOMAIN,scholar.google.com
+#DOMAIN,scholar.google.com.hk
 
