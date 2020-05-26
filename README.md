@@ -1,5 +1,7 @@
 # sub_n3ro
 
+Update: 05-26 支持了yoyu pro套餐节点订阅;去除neuk订阅
+
 Update: 04-26 支持了neukssr标准套餐节点订阅
 
 自用n3ro订阅转换规则
